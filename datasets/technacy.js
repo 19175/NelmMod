@@ -3,7 +3,7 @@ name:'That other dataset',
 author:'Me, Myself And I',
 desc:'another dataset for Legacy.',
 engineVersion:1,
-manifest:0,
+manifest:'https://cdn.jsdelivr.net/gh/19175/NelmMod@e7f7bcb/Manifests/Manifest.js',
 requires:['Default dataset*'],
 func:function()
 {
